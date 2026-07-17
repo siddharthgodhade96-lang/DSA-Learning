@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0029-divide-two-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2544-alternating-digit-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/2544-alternating-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0111-minimum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
