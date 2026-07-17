@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0007-reverse-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
