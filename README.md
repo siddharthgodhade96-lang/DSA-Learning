@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0029-divide-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
