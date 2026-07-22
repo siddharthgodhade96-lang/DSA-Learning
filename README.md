@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0014-longest-common-prefix) |
+| [0039-combination-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0088-merge-sorted-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0039-combination-sum) |
 ## Linked List
 |  |
 | ------- |
