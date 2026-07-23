@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
 ## Counting
 |  |
 | ------- |
