@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0229-majority-element-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0039-combination-sum) |
