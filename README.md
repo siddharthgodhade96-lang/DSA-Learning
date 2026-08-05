@@ -116,21 +116,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0112-path-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
