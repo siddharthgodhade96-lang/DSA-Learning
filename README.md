@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0229-majority-element-ii) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0303-range-sum-query-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
