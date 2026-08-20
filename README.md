@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0088-merge-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0051-n-queens) |
 ## Linked List
 |  |
 | ------- |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
