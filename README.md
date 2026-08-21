@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0029-divide-two-integers) |
+| [0096-unique-binary-search-trees](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0096-unique-binary-search-trees) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2544-alternating-digit-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/2544-alternating-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0096-unique-binary-search-trees) |
 ## Stack
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0145-binary-tree-postorder-traversal) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0145-binary-tree-postorder-traversal) |
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0051-n-queens) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
