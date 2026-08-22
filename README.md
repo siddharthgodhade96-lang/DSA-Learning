@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0238-product-of-array-except-self) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0145-binary-tree-postorder-traversal) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0145-binary-tree-postorder-traversal) |
@@ -190,4 +193,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
