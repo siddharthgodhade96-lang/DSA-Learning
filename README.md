@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0096-unique-binary-search-trees) |
+| [0509-fibonacci-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2544-alternating-digit-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/2544-alternating-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0096-unique-binary-search-trees) |
+| [0509-fibonacci-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
