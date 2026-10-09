@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0096-unique-binary-search-trees) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2544-alternating-digit-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/2544-alternating-digit-sum) |
