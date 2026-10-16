@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0075-sort-colors) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0509-fibonacci-number) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Memoization
 |  |
