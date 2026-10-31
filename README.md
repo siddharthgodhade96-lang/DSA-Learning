@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0147-insertion-sort-list) |
 | [0229-majority-element-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0229-majority-element-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
 | ------- |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
 | ------- |
@@ -199,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Algorithm X
 |  |
 | ------- |
