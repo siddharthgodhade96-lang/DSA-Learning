@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0724-find-pivot-index) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2544-alternating-digit-sum](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/2544-alternating-digit-sum) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0147-insertion-sort-list) |
 | [0229-majority-element-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -204,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Algorithm X
 |  |
