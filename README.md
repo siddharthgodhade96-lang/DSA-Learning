@@ -231,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
