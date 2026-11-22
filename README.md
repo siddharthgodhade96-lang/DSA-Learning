@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
