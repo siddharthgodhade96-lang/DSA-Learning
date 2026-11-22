@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0268-missing-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0238-product-of-array-except-self) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0229-majority-element-ii) |
 ## Number Theory
 |  |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0169-majority-element) |
 ## Memoization
 |  |
 | ------- |
@@ -239,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0184-department-highest-salary) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
