@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0303-range-sum-query-immutable) |
+| [0704-binary-search](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Algorithm X
 |  |
