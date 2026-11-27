@@ -1,13 +1,13 @@
 class Solution {
     public boolean canJump(int[] nums) {
-        int goal = nums.length - 1;
-
-        for (int i = nums.length - 2; i >= 0; i--) {
-            if (i + nums[i] >= goal) {
-                goal = i;
-            }
+       int n =nums.length;
+        int maxFind=0;
+        for(int i=0;i<n;i++) {
+            if(i > maxFind) return false;
+            else {
+                maxFind = Math.max(maxFind,nums[i]+i);
+                }
         }
-
-        return goal == 0;        
+        return true;       
     }
 }
