@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0303-range-sum-query-immutable) |
+| [0455-assign-cookies](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1480-running-sum-of-1d-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/2149-rearrange-array-elements-by-sign) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
