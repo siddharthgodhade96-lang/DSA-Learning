@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
