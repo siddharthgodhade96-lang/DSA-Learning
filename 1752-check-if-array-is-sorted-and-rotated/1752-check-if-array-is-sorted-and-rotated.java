@@ -1,22 +1,20 @@
 class Solution {
     public boolean check(int[] nums) {
-        return sort(nums, 0, 0);
-    }
 
-    public boolean sort(int[] arr, int index, int count) {
+        int count = 0;
+        int n = nums.length;
 
-        // Base condition
-        if(index == arr.length) {
-            return count <= 1;
+        for(int i = 0; i < n; i++) {
+
+            if(nums[i] > nums[(i + 1) % n]) {
+                count++;
+            }
+
+            if(count > 1) {
+                return false;
+            }
         }
 
-        // Check current and next element (circular)
-        if(arr[index] > arr[(index + 1) % arr.length]) {
-            count++;
-        }
-
-        if(count > 1) return false;
-
-        return sort(arr, index + 1, count);
+        return true;
     }
 }
