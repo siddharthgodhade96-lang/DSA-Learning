@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1480-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddharthgodhade96-lang/DSA-Learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
